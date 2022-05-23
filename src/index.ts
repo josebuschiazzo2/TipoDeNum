@@ -4,7 +4,7 @@ Muestre cuántos números son positivos, cuántos son negativos y cuántos ceros
 */
 
 
-// declaro una Funciones para solicitar el valor y validad el dato ingresado o pedirle de nuevo
+// declaro una Funciones para solicitar el valor y validar el dato ingresado o pedirle de nuevo
 function isnumber (position:number):number
   {
     let itsnotnum: boolean = true; 
